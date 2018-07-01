@@ -1,5 +1,5 @@
 # QuizApp
-![screen](../master/app/src/main/res/drawable/quiz2.png)
+![screen](../master/app/src/main/res/drawable/quiz2.gif)
 
 ## Pre-requisites
 * Android SDK v28
