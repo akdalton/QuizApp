@@ -1,0 +1,83 @@
+<resources>
+
+    <!-- Name of Application -->
+    <string name="app_name">Quiz</string>
+
+    <!-- Headline for Home Activity -->
+    <string name="headline">Your Quiz App</string>
+
+    <!-- Name of Button for Home Activity-->
+    <string name="homeButton">Play Quiz</string>
+
+    <!-- Quiz Instructions for Quiz Activity-->
+    <string name="quizInst">Quiz Instructions</string>
+    <string name="instructionNo1">1. Each question in the quiz is of single-choice, multiple-choice or fill-in the blank format.</string>
+    <string name="instructionNo2">2. The total score for the quiz is based on your responses to all questions.</string>
+    <string name="instructionNo3">3. If you select an incorrect response for a question, you can try again until you get the correct response.</string>
+    <string name="instructionNo4">4. After responding to a question, click on the "Submit" button at the bottom of the screen</string>
+
+    <!-- Strings for Question No.1-->
+    <string name="question1">Q 1 - How to pass the data between activities in Android? </string>
+    <string name="q1_opt_a">A - Intent</string>
+    <string name="q1_opt_b">B - Content Provider</string>
+    <string name="q1_opt_c">C - Broadcast receiver</string>
+
+    <!-- Strings for Question No.2-->
+    <string name="question2">Q 2 -How many sizes are supported by Android?</string>
+    <string name="q2_opt_a">A - Android supported all sizes</string>
+    <string name="q2_opt_b">B - Android does not support all sizes</string>
+    <string name="q2_opt_c">C - Android supports small,normal, large and extra-large sizes</string>
+
+    <!-- Strings for Question No.3-->
+    <string name="question3">Q 3 -What is ANR in android?</string>
+    <string name="q3_opt_a">A - When the application is not responding ANR will occur.</string>
+    <string name="q3_opt_b">B - Dialog box is called as ANR.</string>
+    <string name="q3_opt_c">C - When Android forcefully kills an application, it is called ANR</string>
+
+    <!-- Strings for Question No.4-->
+    <string name="question4">Q 4 - What is Android?</string>
+    <string name="q4_opt_a">A - Android is a stack of software for mobility</string>
+    <string name="q4_opt_b">B - Google mobile device name</string>
+    <string name="q4_opt_c">C - Virtual machine</string>
+
+    <!-- Strings for Question No.5-->
+    <string name="question5">Q 5 - Persist data can be stored in Android through</string>
+    <string name="q5_opt_a">A - Shared Preferences</string>
+    <string name="q5_opt_b">B - Internal/External storage</string>
+    <string name="q5_opt_c">C - SQLite</string>
+    <string name="q5_opt_d">D - Network servers.</string>
+
+    <!-- Strings for Question No.6-->
+    <string name="question6">Q 6 - What is log message in android?</string>
+    <string name="q6_opt_a">A - Log message is used to debug a program.</string>
+    <string name="q6_opt_b">B - Same as printf()</string>
+    <string name="q6_opt_c">C - Same as Toast().</string>
+
+    <!-- Strings for Question No.7-->
+    <string name="question7">Q 7 - What is the difference between content values and cursor in android SQLite?</string>
+    <string name="q7_opt_a">A - Content values are key pair values, which are updated or inserted in the database</string>
+    <string name="q7_opt_b">B - Cursor is used to store the temporary result.</string>
+    <string name="q7_opt_c">C - Cursor is used to store data permanently.</string>
+
+    <!-- Strings for Question No.8-->
+    <string name="question8">Q 8 - Data can be read from local source XML in android through</string>
+    <string name="q8_opt_a">A - XML resource parser</string>
+    <string name="q8_opt_b">B - XML pull parsing</string>
+    <string name="q8_opt_c">C - DOM parsing</string>
+
+    <!-- Strings for Question No.9-->
+    <string name="question9">Q 9 - Why do not we give MIN SDK as 1 in android?</string>
+    <string name="q9_opt_a">A - Android deprecated version</string>
+    <string name="q9_opt_b">B - There is no value for 1</string>
+    <string name="q9_opt_c">C - Android does not allow min version 1</string>
+
+    <!-- Strings for Question No.10-->
+    <string name="question10">Q 10 - What is off-line synchronization in android?</string>
+    <string name="q10_opt_a">A - Synchronization with internet</string>
+    <string name="q10_opt_b">B - Background synchronization</string>
+    <string name="q10_opt_c">C - Synchronization without internet</string>
+
+    <!--String for Submit Button-->
+    <string name="submitButton">Submit</string>
+
+</resources>
