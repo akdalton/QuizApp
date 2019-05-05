@@ -1,4 +1,4 @@
-# QuizApp
+# Quiz App
 ![screen](../master/app/src/main/res/drawable/quiz2.gif)
 
 ## Pre-requisites
